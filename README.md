@@ -17,6 +17,7 @@ Distribution method and license
 The subsystem is developed and distributed under the GNU General Public License v3.0. The code is open, you can copy and distribute to anyone, but also with open source sharing.
 
 Currently content of tools:
+
 Group processing of catalogs and documents- allows you to massively change the attributes and tabular parts in selected catalogs and documents.
 Constant Editor - allows you to edit the values of constants in table mode
 Database Storage Structure- View table names and their relationships with metadata objects.
