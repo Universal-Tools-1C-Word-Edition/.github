@@ -1,13 +1,7 @@
-# .github
-Universal Tools 1С for managed forms
-This is freely distributed set of Universal tools: data processors and reports. May be useful for for developers and users for development and support. Works in ALL types of client applications and in all operating systems supported by the "1C:Enterprise" platform, except for mobile.
-
-Supported Operation Systems
-Windows x86
-Windows x64
-Linux x64
-Linux x86
-It should work on Mac OS, but has not been tested
+# Universal Tools 1С Word Edition
+Universal Tools 1С Word Edition it's set usefull tools for developers and users of "1C:Enterprise" platform.
+Contains inside data processors and reports that may be useful for development and support
+Works in ALL types of client applications and in all operating systems supported by the "1C:Enterprise" platform, except for mobile.
 
 Supported type of client applications
 Thick client managed application
